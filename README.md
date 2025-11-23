@@ -1,5 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Swapnil+Mishra;MERN+Stack+Developer;Data+Science+%7C+Machine+Learning+Enthusiast;Tech+Explorer+%26+Problem+Solver" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Swapnil+Mishra;MERN+Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Tech+Explorer+%26+Problem+Solver" alt="Animated header" />
+</p>
 ---
 
 ### 👨‍💻 About Me
