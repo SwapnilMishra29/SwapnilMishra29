@@ -9,7 +9,7 @@ I’m a passionate **Full-Stack MERN Developer** and **Data Science enthusiast**
 - 🌱 Currently learning **Deep Learning, MLOps & System Design**
 - 💡 Interested in **AI-powered Web Apps & Cloud Deployments**
 - 🎯 Aspiration: **Secure a global software role after graduation**
-- 📫 Reach me at: **mishraswapnil2998@gmail.com**
+- 📫 Reach me at: **mishraswapnil610@gmail.com**
 - 🌍 Portfolio Website: **https://portfolio-r56i.onrender.com/**
 
 ---
@@ -49,10 +49,10 @@ I’m a passionate **Full-Stack MERN Developer** and **Data Science enthusiast**
 
 ## 🤝 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/swapnilmishra29" target="_blank">
+<a href="https://www.linkedin.com/in/swapnilmishra70" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="mailto:mishraswapnil2998@gmail.com">
+<a href="mailto:mishraswapnil610@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
